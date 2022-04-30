@@ -1,2 +1,4 @@
 # ImageCombiner-WF
-A free,  lightweight app for combining  images.
+ImageCombiner-WF is a free,  lightweight app for combining  images.
+
+Powered by PySimpleGUI and Pillow. 
